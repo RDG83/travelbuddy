@@ -1,0 +1,15 @@
+{
+    "name": "rdgri/travelbuddy",
+    "authors": [
+        {
+            "name": "RDG83",
+            "email": "rdgrijs@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
